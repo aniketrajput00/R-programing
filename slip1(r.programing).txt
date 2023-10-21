@@ -1,0 +1,8 @@
+> a<-c(10,30,50,60,40)
+> print(a)
+[1] 10 30 50 60 40
+> sprintf("Minimum no=%d",min(a))
+[1] "Minimum no=10"
+> sprintf("Maximum no=%d",max(a))
+[1] "Maximum no=60"
+
