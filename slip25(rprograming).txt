@@ -1,0 +1,6 @@
+
+> li=list(c(1,3,5,4),
++ matrix(c(3,8,1,2),nrow=2),
++ month.abb
++ )
+> print(li)

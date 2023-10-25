@@ -1,0 +1,15 @@
+ print("name to the list:")
+ my_list=list("pune","mumbai","nager","kanpur")
+ print(my_list)
+
+ print("Add element at the end")
+ my_list[4]="mumbai"
+ print(my_list)
+
+ print("Remove last element")
+ my_list[3]=NULL
+ print(my_list)
+
+ print("update the 3rd element")
+ my_list[2]="nager"
+ print(my_list)
